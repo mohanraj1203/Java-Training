@@ -1,5 +1,5 @@
 import java.util.*;
-class Binarysearch_rec{
+class Binarysearch_rec
 	static int target;
 	static int[] arr;
 	static boolean result;
